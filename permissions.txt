@@ -1,0 +1,13 @@
+nome,arquivo,leitura,exclusão,execução
+junior,anotacoes.txt,1,1,1
+junior,Main.java,1,0,1
+junior,trabalho1.pdf,1,1,0
+junior,marioverde.jpg,1,0,0
+sandy,anotacoes.txt,0,1,0
+sandy,Main.java,0,1,1
+sandy,trabalho1.pdf,0,0,0
+sandy,marioverde.jpg,1,1,1
+shaolin,anotacoes.txt,1,0,0
+shaolin,Main.java,1,1,0
+shaolin,trabalho1.pdf,0,0,1
+shaolin,marioverde.jpg,0,1,1
